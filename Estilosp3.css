@@ -1,0 +1,79 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background: url(fondo.jpg);
+    background-size:100%;
+}
+
+#titulo {
+    color:black;
+}
+
+#Bienvenida {
+    font-size: 30px;
+}
+
+
+img{
+    margin: auto;
+    display: block;
+}
+
+a:link {
+    color:rgb(3, 19, 70);
+    margin: 50px 30px;
+    font-size: 25px;
+}
+
+
+label{
+    font-size: 20px;
+    text-align: center;
+}
+
+header{
+    text-align:justify;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align:center;
+    font-size: 50px;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    color:brown
+}
+h4 {
+    text-align: justify;
+    font-size: 20px;
+    color:black
+}
+
+fieldset {
+    background-color: burlywood;
+    height: 90px;
+}
+
+.p3form {
+    width: 480px;
+    background: #18435efb;
+    padding: 20px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 4px;
+}
+
+.portada {
+    font-size: 50px;
+}
